@@ -44,6 +44,5 @@ Reach out and touch faith
 
 
 Some content for 1-st commit in FEATURE branch
-
-
+Some content for 2-nd commit in FEATURE branch
 
